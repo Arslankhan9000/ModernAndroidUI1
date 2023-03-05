@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+
+    <color name="bg">#fff</color>
+    <color name="colorPrimaryDark">#2793D3</color>
+    <color name="colorAccent">#A5D5F1</color>
+
+
+<!--     <color name="bg">#22333B</color>-->
+<!--    <color name="colorPrimaryDark">#40df9f</color>-->
+<!--    <color name="colorAccent">#03DAC5</color>-->
+
+</resources>
+
+
+<!--    169360 ,  286053, 40DF9F, 96A7AF,-->
