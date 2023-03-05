@@ -1,6 +1,5 @@
 # LoginUI-in-Android-Studio
-This repo contains the source code of an amazing ui android application you just fall in love after seeeing the  UI
+This repo contains the source code of an amazing Login ui android application.
 
-
-![WhatsApp Image 2020-11-05 at 6 10 21 AM](https://user-images.githubusercontent.com/64765400/98360061-0e6a9980-1fde-11eb-906d-fc97cc619d2b.jpeg)
+![smartmockups_lev2ewcc](https://user-images.githubusercontent.com/89131502/222955803-9e7ea7c9-4a4a-469f-98b3-5567803dde93.png)
 
